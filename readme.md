@@ -1,6 +1,5 @@
 # multi2matrix
 
-en:
 a program that allows you to calculate two matrix multiplication.
 
 - i wrote this program because i'm learning c
