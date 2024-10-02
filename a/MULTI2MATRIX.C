@@ -41,7 +41,7 @@ int main () {
 	}
 
 	//RESULT
-	printf("Hasil perkalian matriks \n");
+	printf("Result \n");
 	printf("\n");
 	for(I=0; I<RowA; I++){
 		for(K=0; K<ColB; K++) printf("%7d", MatrikC[I][K]);
