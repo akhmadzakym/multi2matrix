@@ -5,7 +5,7 @@ int main () {
 	int I,J,K, RowA,ColA,ColB;
 	int MatrikA[100][100], MatrikB[100][100], MatrikC[100][100];
 	
-	//masukkan ORDO dari MATRIKS
+	//inserting how many rows and columns
 	printf("How Many Rows in (A)?"); scanf("%d", &RowA); 
 	printf("How Many Columns in (A)?"); scanf("%d", &ColA);
 	printf("\n");
